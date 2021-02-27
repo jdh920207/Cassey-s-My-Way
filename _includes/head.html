@@ -77,17 +77,15 @@
   <!-- End SEO Tag -->
 
   <!--Start 구조화된 데이터-->
-  {% if page.feature %}
-  <script type="application/ld+json">
+    <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
-      "headline": "{{ page.title }}",
+      "headline": "{{page.title}}",
       "image": ["{{site.url}} {{page.feature}}"],
       "datePublished": "{{ page.date }}"
     }
   </script>
-  {% endif %}
   <!--End 구조화된 데이터-->
 
   <!--Start 구조화된 데이터 제출-->
