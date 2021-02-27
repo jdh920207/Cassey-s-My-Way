@@ -5,12 +5,12 @@
   <meta name="naver-site-verification" content="5d44a1b4325a909bc0d91200722433f5f531053e" />
 
   <title>
-		{%if page.title %}
-			{{ page.title }} - {{ site.title }}
-		{% else %}
-			{{ site.title }} - {{ site.tagline }}
-		{% endif %}
-	</title>
+    {%if page.title %}
+    {{ page.title }} - {{ site.title }}
+    {% else %}
+    {{ site.title }} - {{ site.tagline }}
+    {% endif %}
+  </title>
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
@@ -27,69 +27,77 @@
   <!-- SEO Tag -->
   <meta name="twitter:card" content="summary_large_image" />
   {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta name="twitter:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
   {% else %}
-    <meta property="og:title" content="{{ site.title }} - {{ site.tagline }}" />
-    <meta name="twitter:title" content="{{ site.title }} - {{ site.tagline }}" />
+  <meta property="og:title" content="{{ site.title }} - {{ site.tagline }}" />
+  <meta name="twitter:title" content="{{ site.title }} - {{ site.tagline }}" />
   {% endif %}
   {% if page.title %}
-    <meta property="og:type" content="article" />
+  <meta property="og:type" content="article" />
   {% else %}
-    <meta property="og:type" content="website" />
+  <meta property="og:type" content="website" />
   {% endif %}
   {% if page.description %}
-    <meta name="description" content="{{ page.description }}" />
-    <meta property="og:description" content="{{ page.description }}" />
-    <meta name="twitter:description" content="{{ page.description }}" />
+  <meta name="description" content="{{ page.description }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta name="twitter:description" content="{{ page.description }}" />
   {% else %}
-    <meta name="description" content="{{ site.description }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-    <meta name="twitter:description" content="{{ site.description }}" />
+  <meta name="description" content="{{ site.description }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta name="twitter:description" content="{{ site.description }}" />
   {% endif %}
   {% if page.url %}
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   {% endif %}
   {% if page.date %}
-    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
-    <meta property="article:author" content="{{ page.author }}" />
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+  <meta property="article:author" content="{{ page.author }}" />
   {% endif %}
   {% if page.feature %}
-    <meta property="og:image" content="{{ site.github.url }}{{ page.feature }}" />
-    <meta name="twitter:image:src" content="{{ site.github.url }}{{ page.feature }}" />
+  <meta property="og:image" content="{{ site.github.url }}{{ page.feature }}" />
+  <meta name="twitter:image:src" content="{{ site.github.url }}{{ page.feature }}" />
   {% else %}
-    <meta property="og:image" content="{{ site.github.url }}{{ site.thumbnail }}" />
-    <meta name="twitter:image:src" content="{{ site.github.url }}{{ site.thumbnail }}" />
+  <meta property="og:image" content="{{ site.github.url }}{{ site.thumbnail }}" />
+  <meta name="twitter:image:src" content="{{ site.github.url }}{{ site.thumbnail }}" />
   {% endif %}
-    <meta property="og:locale" content="{{ site.locale }}" />
-    <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:locale" content="{{ site.locale }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   {% if page.categories %}
-    {% for category in page.categories limit:1 %}
-    <meta property="article:section" content="{{ category }}" />
-    {% endfor %}
+  {% for category in page.categories limit:1 %}
+  <meta property="article:section" content="{{ category }}" />
+  {% endfor %}
   {% endif %}
   {% if page.tags %}
-    {% for tag in page.tags %}
-    <meta property="article:tag" content="{{ tag }}" />
-    {% endfor %}
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}" />
+  {% endfor %}
   {% endif %}
   <!-- End SEO Tag -->
 
-<!--Start 구조화된 데이터-->
-{% if page.feature %}
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "{{ page.title }}",
-"image": [
-“{{ site.url }}{{ page.feature }}“
-] ,
-"datePublished": "{{ page.date }}"
-}
-</script>
-{% endif %}
-<!--End 구조화된 데이터-->
+  <!--Start 구조화된 데이터-->
+  {% if page.feature %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ page.title }}",
+      "image": ["{{site.url}} {{page.feature}}"],
+      "datePublished": "{{ page.date }}"
+    }
+  </script>
+  {% endif %}
+  <!--End 구조화된 데이터-->
 
+  <!--Start 구조화된 데이터 제출-->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "name": "CASSEY's 마이외이",
+      "url": "https://cassey.kr",
+    }
+  </script>
+  <!--End 구조화된 데이터 제출-->
 </head>
