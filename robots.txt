@@ -1,4 +1,5 @@
 User-agent: *
-Allow:/
+Allow: /
 
-Sitemap: http://cassey.kr/sitemap.xml
+Sitemap: https://cassey.kr/sitemap.xml
+#DaumWebMasterTool:51d8a17fc18be60b2770cf1c6044f5bc7fc6634c07da415f7e495b93671891cc:SBDn+3M1gAUD2c6N/ci3rg==
