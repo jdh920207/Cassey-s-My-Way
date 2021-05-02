@@ -61,7 +61,7 @@ description: 'AI 기술을 이용한 고객 분석/ 마케팅 자동화 툴 다�
 사이트 배너(Dynamic Contents) 는 물론, 추천 툴(Recommendations), 팝업 배너(Overlays), 알림 배너(Notification) 등의 형태로 사이트 내에서 쉽게 개인화된 메시지를 전달할 수 있다.
 
 
-예를들어 우리 사이트의 방문한 사람들이 뉴스레터 구독하도록 만드는 캠페인을 만들경우, 아래와 같이 종료 시 팝업 배너를 통해 뉴스레터 구독을 권유할 수 있다.
+예를들어 우리 사이트의 방문한 사람들이 뉴스레터 구독하도록 만드는 캠페인을 만들경우, 고객이 종료버튼을 클릭하려고 할때 팝업 배너를 노출하여 뉴스레터 구독을 권유할 수 있다.
 
 이러한 캠페인 세팅은 타겟에 따라 다르게 설정이 가능하고, 이러한 테스트를 통해 개별 고객에게 더욱 적합한 콘텐츠를 노출하는 개인화 마케팅이 가능하다.
 
@@ -73,10 +73,10 @@ description: 'AI 기술을 이용한 고객 분석/ 마케팅 자동화 툴 다�
 
 
 ![dynamic yield design](/img/posts/004/5_design.png)<br>
-<span style="color:grey; font-style:italic;">마케터가 클릭 몇번이면 팝업 배너도 뚝딱! </span>
+<span style="color:grey; font-style:italic;font-size:10pt;">마케터가 클릭 몇번이면 팝업 배너도 뚝딱! </span>
 
 ![dynamic yield developer](/img/posts/004/6_developer.png)<br>
-<span style="color:grey; font-style:italic;">반대로 다른 툴과 다르게 다이나믹 일드의 특이한 점은, 개발자가 쉽게 작업을 할수 있도록 이런 기능도 제공한다. </span>
+<span style="color:grey; font-style:italic; font-size:10pt;">반대로 다른 툴과 다르게 다이나믹 일드의 특이한 점은, 개발자가 쉽게 작업을 할수 있도록 이런 기능도 제공한다. </span>
 
 
 이밖에도, A/B Testing, Behavioral Messaging 등 다양한 분석, 자동화 등등의 기능이 제공된다.
