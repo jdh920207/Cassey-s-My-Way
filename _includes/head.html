@@ -79,26 +79,20 @@
   <!--Start 구조화된 데이터-->
   {% if page.feature %}
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "{{ page.title }}",
-      "image": ["{{ site.github.url }}{{ page.feature }}"],
-      "datePublished": "{{ page.date | date_to_xmlschema }}",
-    }
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "{{ page.title }}",
+        "image": [
+          "{{ site.github.url }}{{ page.feature }}"
+         ],
+        "datePublished": "{{ page.date | date_to_xmlschema }}"
+      }
     </script>
-    {% endif %}
+  {% endif %}
+
   <!--End 구조화된 데이터-->
 
-  <!--Start 구조화된 데이터 제출-->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "Person",
-      "name": "CASSEY's 마이외이",
-      "url": "https://cassey.kr"    }
-  </script>
-  <!--End 구조화된 데이터 제출-->
   <!-- Favicon Tag -->
 <link rel="apple-touch-icon" sizes="57x57" href="{{ site.github.url }}/img/icon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ site.github.url }}/img/icon/apple-icon-60x60.png">
