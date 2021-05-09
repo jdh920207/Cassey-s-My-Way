@@ -5,8 +5,7 @@ title: '비즈니스 영어 공부 방법- 영어 유튜브 채널 추천'
 date: 2021-05-09 18:00:00 +09:00
 feature: '/img/posts/001/thumnail.jpg'
 categories:
-  - business english
-  - foreign company
+  - company
 tags:
   - 비즈니스 영어
   - 유튜브 추천
