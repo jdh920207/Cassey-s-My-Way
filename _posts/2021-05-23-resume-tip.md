@@ -17,7 +17,9 @@ description: '외국계 회사 지원 시 포지션에 맞는 레주메 & 커버
 
 국문 이력서야 어떻게서든 내용을 수려하게 포장할 수 있지만, 영문으로는 쉽지 않다. 예를들어, 단순히 ‘했다.’ ‘경험했다.’ 보다는 ‘달성했다.’, ‘이끌었다.’ 등 좀 더 능동적이고 성과를 드러낼 수 있는 표현으로 작성하면 좋은데, 이런 단어나 문장이 쉽게 생각나지는 않는다.
 
-이렇게 레주메와 커버레터에 사용하기 좋은 문장과 단어를 찾을 수 있는 꿀팁을 소개하고자 한다.<br>
+이렇게 레주메와 커버레터에 사용하기 좋은 문장과 단어를 찾을 수 있는 꿀팁을 소개하고자 한다.
+
+
 
 <h3 style="color:#fe7d32; font-weight:600;">  유사한 직무 채용 공고 Job Description 참고하기</h3>
 
@@ -33,7 +35,9 @@ description: '외국계 회사 지원 시 포지션에 맞는 레주메 & 커버
 
 >As an ecommerce performance manager at ###, I contributed to enhance the performance and efficiency of ecommerce business with data-driven approaches and skill sets. I analyzed the ecommerce performance efficiency of the ###’s entire digital commerce activities, established and continuously measured KPIs, and created the ecommerce investment optimization process.
 
-위 예시는 좀 더 극단적으로 JD 샘플을 참고해서 작성해봤지만, 실제로 JD를 참고해서 작성할 때는 일부 단어는 비슷한 뜻의 다른 단어로 paraphrasing 하는게 좋을 것 같다.<br>
+위 예시는 좀 더 극단적으로 JD 샘플을 참고해서 작성해봤지만, 실제로 JD를 참고해서 작성할 때는 일부 단어는 비슷한 뜻의 다른 단어로 paraphrasing 하는게 좋을 것 같다.
+
+
 
 <h3 style="color:#fe7d32; font-weight:600;">  구글 검색으로 외국 사이트 샘플 참고하기</h3>
 
@@ -50,7 +54,10 @@ description: '외국계 회사 지원 시 포지션에 맞는 레주메 & 커버
 -	In my former role as a ###(나의 포지션)  at ###(회사명), my responsibilities were not just limited to ###(업무)  but included ###(업무)
 -	In addition to the ### experience, I worked as
 -	In all previous employment, I excelled at ###(역량)
--	I believe that my experience in ###, and skill set will be an excellent match for the position and your company.</span><br>
+-	I believe that my experience in ###, and skill set will be an excellent match for the position and your company.
+</span>
+
+
 
 <h3 style="color:#fe7d32; font-weight:600;">  레주메 용 단어 목록 참고하기</h3>
 
@@ -58,46 +65,49 @@ description: '외국계 회사 지원 시 포지션에 맞는 레주메 & 커버
 
 아래에 우리 마케터 선생님들이 사용할만한 단어들을 일부 가져왔다. 더 많은 단어는 출처에 방문하여 참고해보시라!
 
-#### Resume Action Verb
+<h4 style="color:#fe7d32; font-weight:600;">Resume Action Verb</h4>
 
-| Management Skills| Communication Skills| Stronger Verbs for Accomplishments|
-|------|---|---|
-| Analyzed|Addressed|Accelerated
-Assigned|Arranged|Achieved
-Consolidated|Collaborated|Attained
-Coordinated|Developed|Completed
-Delegated|Directed|Conceived
-Developed|Drafted|Convinced
-Evaluated|Enlisted|Discovered
-Executed|Formulated|Doubled
-Organized|Influenced|Effected
-Oversaw|Interpreted|Eliminated
-Planned|Moderated|Expanded
-Prioritized|Negotiated|Expedited
-Reorganized|Persuaded|Founded
-Reviewed|Promoted|Improved
-Scheduled|Proposed|Increased
-Supervised|Publicized|Initiated
+| Management Skills| | Communication Skills|| Stronger Verbs for Accomplishments|
+|------|---|---|---|---|
+| Analyzed||Addressed||Accelerated
+Assigned||Arranged||Achieved
+Consolidated||Collaborated||Attained
+Coordinated||Developed||Completed
+Delegated||Directed||Conceived
+Developed||Drafted||Convinced
+Evaluated||Enlisted||Discovered
+Executed||Formulated||Doubled
+Organized||Influenced||Effected
+Oversaw||Interpreted||Eliminated
+Planned||Moderated||Expanded
+Prioritized||Negotiated||Expedited
+Reorganized||Persuaded||Founded
+Reviewed||Promoted||Improved
+Scheduled||Proposed||Increased
+Supervised||Publicized||Initiated
 
-[출처 : MIT Career Advising & Professional Developent | Action Verb ]( https://capd.mit.edu/sites/default/files/jobs/files/resume-action-verbs.pdf
-)
+<span style="color:blue;">[출처 : MIT Career Advising & Professional Developent | Action Verb ]( https://capd.mit.edu/sites/default/files/jobs/files/resume-action-verbs.pdf
+)</span>
 
-#### Synonyms for Words Commonly used in Resumes
 
-| adopt| manage| continue|
-|------|---|---|
-| use|handle| keep up
-utilize|deal with|remain
-employ|represent|resume
-apply|operate|persevere
-mobilize|oversee|persist
-exert|designate|adhere to
-restore|execute
-revive|supervise
-specialize in|conduct
+<h4 style="color:#fe7d32; font-weight:600;"> Synonyms for Words Commonly used in Resumes</h4>
 
-[출처 : Leeds School of Business Career Development | Synonyms for Words Commonly used in Resumes
-]( https://www.colorado.edu/business/sites/default/files/attached-files/Synonyms%20for%20Common%20Words%20in%20Resumes.pdf) <br>
+| adopt|| manage|| continue|
+|------|---|---|---|---|
+| use||handle|| keep up
+utilize||deal with||remain
+employ||represent||resume
+apply||operate||persevere
+mobilize||oversee||persist
+exert||designate||adhere to
+restore||execute
+revive||supervise
+specialize in||conduct
+
+<span style="color:blue;">[출처 : Leeds School of Business Career Development | Synonyms for Words Commonly used in Resumes
+]( https://www.colorado.edu/business/sites/default/files/attached-files/Synonyms%20for%20Common%20Words%20in%20Resumes.pdf)</span>
+
+
 
 <h3 style="color:#fe7d32; font-weight:600;">  Resume & Cover Letter 포맷</h3>
 
@@ -105,10 +115,11 @@ specialize in|conduct
 
 아래 포맷은 내가 예전부터 쓰고 있는 포맷인데, 내용이 많아서 간결해보이진 않지만 요점에 대한 가독성은 상당히 뛰어난편이다.
 
-![resume sample](/img/posts/005/resume.png)<br>
-<span style="color:grey; font-style:italic;">이전에 외국계 취업 박람회?에 들고 갔는데, 레주메 컨설팅을 해주던 외국분이 그날 본 레주메 중 가장 깔끔하다고 칭찬했던 포맷이다!</span> <br><br>
+![resume sample](/img/posts/005/resume.png)  
+
+<span style="color:grey; font-style:italic font-size:0.8em;">이전에 외국계 취업 박람회?에 들고 갔는데, 레주메 컨설팅을 해주던 외국분이 그날 본 레주메 중 가장 깔끔하다고 칭찬했던 포맷이다!</span> <br/><br/>
 
 
-<span style=”color:#ff6633”> 블로그 글을 읽으시는 분 중, 혹 위 레주메 포맷이 필요하신 분은 상단 contact을 눌러 연락주시면 보내드리겠습니다! </span>
+블로그 글을 읽으시는 분 중, 혹 위 레주메 포맷이 필요하신 분은 상단 contact을 눌러 연락주시면 보내드리겠습니다!
 
 다들 좋은 레주메로 원하는 포지션에 철썩 합격하시길 바랍니다! :)
