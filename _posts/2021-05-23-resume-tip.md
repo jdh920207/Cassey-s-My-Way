@@ -54,8 +54,7 @@ description: '외국계 회사 지원 시 포지션에 맞는 레주메 & 커버
 -	In my former role as a ###(나의 포지션)  at ###(회사명), my responsibilities were not just limited to ###(업무)  but included ###(업무)
 -	In addition to the ### experience, I worked as
 -	In all previous employment, I excelled at ###(역량)
--	I believe that my experience in ###, and skill set will be an excellent match for the position and your company.
-</span>
+-	I believe that my experience in ###, and skill set will be an excellent match for the position and your company.</span>
 
 
 
