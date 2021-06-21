@@ -1,18 +1,18 @@
-title:              "D캔두"
-tagline:            "하고싶은건 뭐든 할 수 있는 마케터D"
-email:              "onlydcando@gmail.com"
-description:        "하고싶은것은 어떻게든 노력해서 할 수 있게끔만드는 마케터D의 블로그"
-author:             "마케터D"
-baseurl:            ""
-url:                "https://dcando.kr"
+title:              "CASSEY'S 마이외이"
+tagline:            "6년차 마케터의 마케팅◦이커머스◦외국계◦이야기"
+email:              "dahae.jg@gmail.com"
+description:        "외국계 6년차 이커머스 마케터가 전하는 외국계 회사 생활◦이커머스 운영◦디지털 마케팅 이야기"
+author:             "정캐시"
+baseurl:            "/"
+url:                "https://cassey.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/main_thumbnail.png"
+thumbnail:          "/img/thumnail_new.png"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+#twitter_username:   twitter_username
+instagram_username: dahaejeong
+facebook_username:  dahaejeong27
+linkedin_username:  dahaejg
 
 # Build settings
 markdown:           kramdown
@@ -24,4 +24,4 @@ plugins:
 
 # 블로그 disqus shortname
 disqus:
-  shortname: dcando
+  shortname: casseys-my-way
