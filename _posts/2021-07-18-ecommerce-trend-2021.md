@@ -35,9 +35,8 @@ To better compete with marketplaces and retail giants, brands are also investing
 <h3 style="color:#fe7d32; font-weight:600;"> 1. Ecommerce boom fuels record online competition <br> - 이커머스 붐이 불붙인 기록적인 온라인 경쟁</h3>
 
 
-<h5 style="color:#222222; font-weight:600; font-style:italic;">DTC brands prioritize seamless omnichannel experience to win new customers.<br>
-DTC 브랜드는 새로운 고객을 끌어오기 위한 방법으로 촘촘한 옴니채널 경험을 가장 중요시 한다. </h5>
-
+>DTC brands prioritize seamless omnichannel experience to win new customers.<br>
+DTC 브랜드는 새로운 고객을 끌어오기 위한 방법으로 촘촘한 옴니채널 경험을 가장 중요시 한다.
 
 <h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
 
@@ -53,10 +52,8 @@ DTC 브랜드는 새로운 고객을 끌어오기 위한 방법으로 촘촘한 
 - 새로운 고객 행동이 재정의한 유통의 미래   </h3>
 
 
-<h5 style="color:#222222; font-weight:600; font-style:italic;">  Brands build creative new digital experiences to unlock the future of retail.<br>
+> Brands build creative new digital experiences to unlock the future of retail.<br>
 브랜드는 유통의 미래를 열기 위해 새로운 디지털 경험을 만들고 있다.
- </h5>
-
 
 <h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
 
@@ -72,10 +69,8 @@ DTC 브랜드는 새로운 고객을 끌어오기 위한 방법으로 촘촘한 
 - 남들과 구별되는 경쟁력은 바로, 풀필먼트(Fulfillment)  </h3>
 
 
-<h5 style="color:#222222; font-weight:600; font-style:italic;">  Consumers gravitate to brands offering fast, free, and sustainable shipping. <br>
+> Consumers gravitate to brands offering fast, free, and sustainable shipping. <br>
 소비자는 빠르고 저렴하며 지속가능한 배송을 제공하는 브랜드에 끌린다.
- </h5>
-
 
 <h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
 
@@ -92,10 +87,8 @@ DTC 브랜드는 새로운 고객을 끌어오기 위한 방법으로 촘촘한 
 - 브랜드 구축을 어렵게 하는 마켓플레이스의 우세(마켓플레이스 위주의 시장 상황)</h3>
 
 
-<h5 style="color:#222222; font-weight:600; font-style:italic;">  
-New search and purchasing habits cause brands to personalize with a human touch. <br>
-소비자들의 새로운 검색과 구매 패턴이 브랜드로 하여금 ‘사람의 손길’을 담은 개인화를 시작하게 했다.</h5>
-
+>New search and purchasing habits cause brands to personalize with a human touch. <br>
+소비자들의 새로운 검색과 구매 패턴이 브랜드로 하여금 ‘사람의 손길’을 담은 개인화를 시작하게 했다.
 
 <h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
 
@@ -111,12 +104,10 @@ New search and purchasing habits cause brands to personalize with a human touch.
 - 고객 획득 비용이 증가한 이 때, 가장 중요한 것은 ‘리텐션’  </h3>
 
 
-<h5 style="color:#222222; font-weight:600; font-style:italic;">  Brands experiment with new channels as digital advertising uncertainty rises.<br>
+> Brands experiment with new channels as digital advertising uncertainty rises.<br>
 디지털 광고의 불확실성이 고조됨에 따라 브랜드들은 새로운 채널을 테스트하고 있다.
- </h5>
 
-
-<h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
+ <h4 style="color:#fe7d32; font-weight:600;">Key takeaways</h4>
 
 -	Customer acquisition costs are increasing worldwide across channels, with rates on Facebook rebounding to pre-pandemic highs.
 -	Globally, consumers and regulators are wary of big tech, prompting Google and Apple to consider making it harder to target ads across channels.
@@ -126,4 +117,7 @@ New search and purchasing habits cause brands to personalize with a human touch.
 -	이렇게 광고 시장의 불확실성과 고객 획득비용이 증가하는 것에 대응하기 위해, 브랜드들은 음성 지원 쇼핑(voice-powered shopping)등 **새로운 채널에 도전**하기 시작했다. 또한 이들은 기존 고객이 더 많은 비용을 쓰도록 리워드를 주면서 **‘리텐션’**을 가장 중요시하고 있다.
 
 <br><br>
+
+리포트 전문은 아래 링크에서 읽으실 수 있습니다.
+<br>
 [전문 출처 : The future of ecommerce in 2021- shopify](https://www.shopify.com/enterprise/the-future-of-ecommerce)
